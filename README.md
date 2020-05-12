@@ -1,4 +1,4 @@
-# Pallete Activity (Using Multiple Activities)
+#  Color Activity - Part 2 (Using Multiple Activities)
 
 **CIS 3515 Introduction to Mobile Application Development - Assignment 4**
 
